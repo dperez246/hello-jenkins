@@ -1,0 +1,5 @@
+{
+  "unknown": "Un error desconocido ha ocurrido.",
+  "noAvailableService": "El servicio no se encuentra disponible en este momento.",
+  "statusInteger": "Status debe ser un valor entero"
+}

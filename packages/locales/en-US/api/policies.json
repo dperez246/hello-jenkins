@@ -1,0 +1,11 @@
+{
+  "isApiJWTDeclared": "JWT token was not found and is required.",
+  "noIdTokenExist": "The user or file associated with the token does not exist",
+  "adminToken": "You must have administrator permissions",
+  "noAppToken": "The application associated with that token could not be found.",
+  "adminPermits": "You do not have administrator permissions",
+  "apiToken": "JWT token does not correspond to this application.",
+  "gatewayToken": "You are not authorized to invoke this route.",
+  "tokenDevice": "Device token is required",
+  "csrfTokenNotValid": "The CSRF Token is not valid"
+}

@@ -1,2 +1,3 @@
-# hello-jenkins
-My super sample app to test out Jenkins.
+# Auth
+
+An auth API for multiple external applications.

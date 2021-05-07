@@ -1,0 +1,11 @@
+node_modules
+packages/ui/core
+packages/ui/icon
+packages/ui/hooks
+build
+apps/*.test.js
+apps/*/src/*.test.js
+apps/*/src/serviceWorker.js
+bin/merge-requester/cli-test.js
+bin/merge-requester/pr*
+docs

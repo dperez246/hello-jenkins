@@ -1,0 +1,14 @@
+{
+  "name": "@auth/policies",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@auth/db": "^0.0.1",
+    "@auth/utils": "^0.0.1",
+    "@auth/vars": "^0.0.1",
+    "bluebird": "^3.7.1",
+    "standard-error": "^1.1.0"
+  }
+}

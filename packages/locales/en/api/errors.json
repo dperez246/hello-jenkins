@@ -1,0 +1,5 @@
+{
+  "unknown": "An unknown error has ocurred.",
+  "noAvailableService": "The service is not available at this time.",
+  "statusInteger": "Status must be Integer"
+}

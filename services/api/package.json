@@ -1,0 +1,34 @@
+{
+  "name": "@auth/api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js",
+    "initialize": "node init.js",
+    "debug": "nodemon --inspect index.js"
+  },
+  "dependencies": {
+    "@auth/db": "^0.0.1",
+    "@auth/locales": "^0.0.1",
+    "@auth/policies": "^0.0.1",
+    "@auth/utils": "^0.0.1",
+    "@auth/vars": "^0.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "express": "^4.17.1",
+    "express-bearer-token": "^2.4.0",
+    "i18next": "8.3.0",
+    "i18next-express-middleware": "1.0.5",
+    "soap": "^0.30.0",
+    "standard-error": "^1.1.0",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}

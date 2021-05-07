@@ -1,0 +1,11 @@
+{
+  "isApiJWTDeclared": "JWT token no fue encontrado y es necesario.",
+  "noIdTokenExist": "El usuario o expediente asociado al token no existe",
+  "adminToken": "Debe contar con permisos de administrador",
+  "noAppToken": "No se encontró la aplicación asociada a ese token.",
+  "adminPermits": "No cuenta con permisos de adminitrador",
+  "apiToken": "JWT token no corresponde a esta aplicación.",
+  "gatewayToken": "No tienes autorización para invocar esta ruta.",
+  "tokenDevice": "El token del dispositivo es requerido",
+  "csrfTokenNotValid": "El token de CSRF no es válido"
+}

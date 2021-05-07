@@ -1,0 +1,15 @@
+{
+  "name": "@auth/db",
+  "version": "0.0.1",
+  "main": "./models/index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  },
+  "dependencies": {
+    "@auth/vars": "^0.0.1",
+    "pg": "^7.12.1",
+    "sequelize": "^5.21.2"
+  }
+}
